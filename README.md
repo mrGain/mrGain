@@ -79,6 +79,9 @@
 
 </p>
 
+<p align="center"><img src="gh-1.gif" width="200px"><img src="gh-4.png" width="200px"><img src="gh-2.gif" width="200px">
+</p>
+
 ## ❤ Views and Followers
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mrGain">
