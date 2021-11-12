@@ -25,7 +25,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
@@ -54,8 +54,10 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/mrGain/github-readme-stats"><img alt="Rakesh Gain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrGain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mrGain/github-readme-stats"><img alt="Rakesh Gain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrGain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align="center">
+    <a href="https://github.com/mrGain/github-readme-stats"><img alt="Rakesh Gain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrGain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="160px"/></a>
+  <a href="https://github.com/mrGain/github-readme-stats"><img alt="Rakesh Gain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrGain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160px"/></a>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
