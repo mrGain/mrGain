@@ -3,7 +3,7 @@
 <a href="#"><img width="50%" height="auto" src="pgrm.png" height="175px"/></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh</h1>
-<h3 align="center"><em>I'm a passionate Full Developer from India.</em></h3>
+<h3 align="center"><em>I'm a passionate Full Stack Developer Developer from India.</em></h3>
 
 
 ## 🙋‍♂️ About Me
