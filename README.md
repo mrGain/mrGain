@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh</h1>
 <h3 align="center"><em>I'm a passionate Full Stack Developer from India.</em></h3>
 
-<img align="right" width="50%" height="auto" src="aboutus.gif" height="150px"/></a>
+<img align="right" width="50%" height="auto" src="aboutme.gif" height="150px"/></a>
 
 <br>
 <br>
