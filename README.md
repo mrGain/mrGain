@@ -1,16 +1,16 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30rem">, I'm Rakesh</h1>
 <h3 align="center"><em>I'm a passionate Full Stack Developer from India.</em></h3>
 
-<img align="right" width="50%" height="auto" src="aboutme.gif" height="150px"/></a>
+<img align="right" width="40%" height="auto" src="aboutme.gif"/></a>
 
 <br>
 <br>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Apisetu (Under Digilocker TNX Log)](https://apisetu.gov.in/)**
+- 🔭 I’m currently working on **[Preskool (Personal Project)](https://github.com/mrGain/PreSkool)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -18,14 +18,14 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 📫 How to reach me **rakeshgain47681@gmail.com**
+- 📫 How to reach me **rakeshgain47681@gmail.com** | **rakeshgain47681@gcekbpatna.ac.in**
 
-- ⚡ Fun fact **I play games and love to make new friends.**
+- ⚡ Fun fact **I love to make new friends and meeting new people.**
 
 <br/>
 <br/>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools I use:
 
 <p align="center"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -37,6 +37,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
+    <a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40rem"/> </a>  
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
@@ -64,32 +65,35 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+<!--
 <br/>
 <br/>
-<!-- 
+ 
 <a href="https://github.com/mrGain/github-readme-activity-graph"><img alt="Rakesh Gain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrGain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
-<br/>
 
- <h1 align="center">Connect with Me:</h1>
+<div style="text-align: center;">
 
-<p align="center">
-<a href = "mailto: rakeshgain47681@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.linkedin.com/in/rakesh-gain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://twitter.com/gainrakesh_io/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.instagram.com/gainrakesh.io/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/gainrakesh.io"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+  <!-- ## ❤ Views and Followers -->
+  <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=mrGain">
+  </a> -->
+  <div style="display: inline-block; padding: 0rem 2rem;">
+    <h2>❤ Views and Followers</h2>
 
-</p>
+  ![](https://komarev.com/ghpvc/?username=mrGain&color=brightgreen)
 
-<p align="center"><img src="gh-1.gif" width="200px"><img src="gh-4.png" width="200px"><img src="gh-2.gif" width="200px">
-</p>
+  <a href="https://github.com/mrGain?tab=followers"><img src="https://img.shields.io/github/followers/mrGain?label=Followers&style=social" alt="GitHub Badge"></a>
+  </div>
 
-## ❤ Views and Followers
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mrGain">
-</a> -->
-![](https://komarev.com/ghpvc/?username=mrGain&color=brightgreen)
-<a href="https://github.com/mrGain?tab=followers"><img src="https://img.shields.io/github/followers/mrGain?label=Followers&style=social" alt="GitHub Badge"></a>
+  <div style="display: inline-block; padding: 0rem 2rem;">
+    <h2>Love to Connect with you:</h2>
+    <a href = "mailto: rakeshgain47681@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="20rem" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.linkedin.com/in/rakesh-gain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20rem"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://twitter.com/gainrakesh_io/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="20rem"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.instagram.com/gainrakesh.io/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="20rem" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/gainrakesh.io"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="20rem"/></a>
+  </div>
+
+</div>
