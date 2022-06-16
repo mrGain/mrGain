@@ -82,23 +82,14 @@
 
 <br/>
 
-<div style="">
 
 <!-- ## ❤ Views and Followers -->
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mrGain">
 </a> -->
-<div style="display: inline-block;">
-  <h2>❤ Views and Followers</h2>
+<h2>❤ Views and Followers</h2>
 
 ![](https://komarev.com/ghpvc/?username=mrGain&color=brightgreen)
-
 <a href="https://github.com/mrGain?tab=followers"><img src="https://img.shields.io/github/followers/mrGain?label=Followers&style=social" alt="GitHub Badge"></a>
-</div>
 
-<div style="display: inline-block;">
-  <h2>Love to Connect with you:</h2>
- 
-</div>
 
-</div>
