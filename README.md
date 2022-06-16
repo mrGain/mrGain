@@ -23,6 +23,15 @@
 - ⚡ Fun fact **I love to make new friends and meeting new people.**
 
 <br/>
+<h3 align="center">Love to Connect with you</h3>
+
+<p align="center">
+<a href = "mailto: rakeshgain47681@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="30rem" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.linkedin.com/in/rakesh-gain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30rem"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://twitter.com/gainrakesh_io/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30rem"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.instagram.com/gainrakesh.io/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30rem" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/gainrakesh.io"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="30rem"/></a>
+</p>
 <br/>
 
 ## 🚀 Languages and Tools I use:
@@ -73,27 +82,23 @@
 
 <br/>
 
-<div style="text-align: center;">
+<div style="">
 
-  <!-- ## ❤ Views and Followers -->
-  <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-      <img src="https://komarev.com/ghpvc/?username=mrGain">
-  </a> -->
-  <div style="display: inline-block; padding: 0rem 2rem;">
-    <h2>❤ Views and Followers</h2>
+<!-- ## ❤ Views and Followers -->
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mrGain">
+</a> -->
+<div style="display: inline-block;">
+  <h2>❤ Views and Followers</h2>
 
-  ![](https://komarev.com/ghpvc/?username=mrGain&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=mrGain&color=brightgreen)
 
-  <a href="https://github.com/mrGain?tab=followers"><img src="https://img.shields.io/github/followers/mrGain?label=Followers&style=social" alt="GitHub Badge"></a>
-  </div>
+<a href="https://github.com/mrGain?tab=followers"><img src="https://img.shields.io/github/followers/mrGain?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
 
-  <div style="display: inline-block; padding: 0rem 2rem;">
-    <h2>Love to Connect with you:</h2>
-    <a href = "mailto: rakeshgain47681@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="20rem" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.linkedin.com/in/rakesh-gain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20rem"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://twitter.com/gainrakesh_io/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="20rem"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.instagram.com/gainrakesh.io/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="20rem" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/gainrakesh.io"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="20rem"/></a>
-  </div>
+<div style="display: inline-block;">
+  <h2>Love to Connect with you:</h2>
+ 
+</div>
 
 </div>
